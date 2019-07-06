@@ -4,8 +4,7 @@ Version: 0.0.99.1
 Authors@R: c(
     person("Qian", "Liu", email = "qian.liu@roswellpark.org", role = c("aut", "cre")),
     person("Martin", "Morgan", "M", email = "martin.morgan@roswellpark.org", role = "aut"))
-Description: What the package does (one paragraph).
+Description: testing DOI registration for authors
 Depends: R (>= 3.6.0)
-License: What license is it under?
+License: GPL-3
 Encoding: UTF-8
-LazyData: true
